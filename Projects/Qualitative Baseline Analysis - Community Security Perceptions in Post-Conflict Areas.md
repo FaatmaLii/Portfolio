@@ -4,9 +4,9 @@
 1. [Project Overview](#Project Overview)
 2. [Objectives](#Objectives)
 3. [Methodology](#Methodology)
-4. [Key insights](#Key Insights)
-5. [How the Insights Inform Future Programming](#How the Insights Inform Future Programming)
-6. [Reflection and Lessons Learned](#Reflection and Lessons Learned)
+4. [Key insights](#Key-Insights)
+5. [How the Insights Inform Future Programming](#How-the-Insights-Inform-Future-Programming)
+6. [Reflection and Lessons Learned](#Reflection-and-Lessons-Learned)
 7. [Conclusion](#Conclusion)
 
 ## 1. Project Overview
