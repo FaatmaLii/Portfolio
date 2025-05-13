@@ -1,13 +1,13 @@
 # Qualitative Baseline Analysis: Community Security Perceptions in Post-Conflict Areas
 
 ## Table of Contents
-1. [Project Overview](#project-overview)
-2. [Objectives](#objectives)
-3. [Methodology](#methodology)
-4. [Key insights](#key-insights)
-5. [How the Insights Inform Future Programming](#how-the-insights-inform-future-programming)
-6. [Reflection and Lessons Learned](#reflection-and-lessons-learned)
-7. [Conclusion](#conclusion)
+1. [Project Overview](#Project Overview)
+2. [Objectives](#Objectives)
+3. [Methodology](#Methodology)
+4. [Key insights](#Key Insights)
+5. [How the Insights Inform Future Programming](#How the Insights Inform Future Programming)
+6. [Reflection and Lessons Learned](#Reflection and Lessons Learned)
+7. [Conclusion](#Conclusion)
 
 ## 1. Project Overview
 
