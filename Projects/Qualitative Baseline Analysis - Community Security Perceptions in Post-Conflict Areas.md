@@ -1,7 +1,7 @@
 # Qualitative Baseline Analysis: Community Security Perceptions in Post-Conflict Areas
 
 ## Table of Contents
-1. [Project Overview](#Project Overview)
+1. [Project Overview](#Project-Overview)
 2. [Objectives](#Objectives)
 3. [Methodology](#Methodology)
 4. [Key insights](#Key-Insights)
