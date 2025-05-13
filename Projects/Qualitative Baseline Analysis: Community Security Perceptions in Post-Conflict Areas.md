@@ -1,4 +1,4 @@
-**Qualitative Baseline Analysis: Community Security Perceptions in Post-Conflict Areas**
+**Qualitative Baseline Analysis - Community Security Perceptions in Post-Conflict Areas**
 --
 **Table of Contents**
 1. Project Overview
